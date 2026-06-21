@@ -1,0 +1,15 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "serverless-original-bharath-3332"
+        },
+        "object": {
+          "key": "peacock.jpg"
+        }
+      }
+    }
+  ]
+}
+
